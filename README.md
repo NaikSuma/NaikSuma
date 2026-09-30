@@ -7,7 +7,7 @@
 
 ## 🛠️ Technical Skills
 
-* **Languages:** Java, Python, JavaScript, TypeScript, C, SQL
+* **Languages:** Java, Python, JavaScript, C, SQL
 * **Backend:** Spring Boot, Spring, Hibernate, JPA, REST APIs
 * **Frontend:** React.js, HTML, CSS
 * **DevOps:** Git, GitHub, Jenkins, CI/CD, Docker
